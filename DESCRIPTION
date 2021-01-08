@@ -3,5 +3,6 @@ Features:
 <ul>
 <li>locked Pi headers</li>
 <li>2.54mm raster holes</li>
+<li>double set of Pi headers (for inside and outside mount)</li>
 <li>can be used as SHIM (no headers) or HAT (with headers)</li>
 </ul>

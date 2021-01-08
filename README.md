@@ -23,6 +23,7 @@ Features:
 
 - locked Pi headers
 - 2.54mm raster holes
+- double set of Pi headers (for inside and outside mount)
 - can be used as SHIM (no headers) or HAT (with headers) 
 
 CAM files are available.
