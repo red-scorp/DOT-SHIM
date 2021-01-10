@@ -49,6 +49,26 @@ Features:
 
 CAM files are available.
 
+## DOT-plus-SHIM
+
+Raspberry Pi A+/B+ 40-pin **DOT-plus-SHIM** mini-HAT.
+
+Preview:
+
+![DOT-plus-SHIM preview](DOT-plus-SHIM.png)
+
+[Schematics in PDF format](DOT-plus-SHIM.pdf)
+
+Features:
+
+- locked Pi headers
+- 2.54mm raster holes
+- clear pin description
+- Pi A+/B+ board style
+- can be used as SHIM (no headers) or HAT (with headers)
+
+CAM files are available.
+
 ## How to help
 
 Your contributions as code, resources or finances are welcome!
