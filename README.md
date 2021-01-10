@@ -8,6 +8,7 @@ Here I've designed a 2.54mm raster board for DIY applications.
 Some useful links:
 
 - [pinout.xyz](https://pinout.xyz/) - a brilliant resource on topic of Pi's pinout and HATs.
+- [raspberrypi/hats](https://github.com/raspberrypi/hats) - Pi's HAT specification.
 
 ## DOT-SHIM
 
