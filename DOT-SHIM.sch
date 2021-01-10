@@ -20333,7 +20333,7 @@ This is just like the LOCK variant in that the holes are staggared by 5 mil, but
 <instance part="GND8" gate="1" x="180.34" y="63.5" smashed="yes">
 <attribute name="VALUE" x="180.34" y="63.246" size="1.778" layer="96" align="top-center"/>
 </instance>
-<instance part="LOGO2" gate="G$1" x="134.62" y="12.7" smashed="yes"/>
+<instance part="LOGO2" gate="G$1" x="134.62" y="2.54" smashed="yes"/>
 <instance part="SUPPLY1" gate="G$1" x="116.84" y="116.84" smashed="yes">
 <attribute name="VALUE" x="116.84" y="119.634" size="1.778" layer="96" align="bottom-center"/>
 </instance>
