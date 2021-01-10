@@ -3,7 +3,7 @@
 My DOT-SHIM (mini-HAT) for Raspberry Pi.
 
 Some time ago I have tried to attach something self-made schematics to a zero Pi with some limited success.
-Now I've designed a 2.54mm raster board for DIY applications.
+Here I've designed a 2.54mm raster board for DIY applications.
 
 Some useful links:
 
@@ -23,8 +23,29 @@ Features:
 
 - locked Pi headers
 - 2.54mm raster holes
+- clear pin description
 - double set of Pi headers (for inside and outside mount)
 - can be used as SHIM (no headers) or HAT (with headers) 
+
+CAM files are available.
+
+## DOT-zero-SHIM
+
+Raspberry Pi zero 40-pin **DOT-zero-SHIM** mini-HAT.
+
+Preview:
+
+![DOT-zero-SHIM preview](DOT-zero-SHIM.png)
+
+[Schematics in PDF format](DOT-zero-SHIM.pdf)
+
+Features:
+
+- locked Pi headers
+- 2.54mm raster holes
+- clear pin description
+- Pi zero board style
+- can be used as SHIM (no headers) or HAT (with headers)
 
 CAM files are available.
 

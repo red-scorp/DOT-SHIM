@@ -3,6 +3,16 @@ Features:
 <ul>
 <li>locked Pi headers</li>
 <li>2.54mm raster holes</li>
+<li>clear pin description</li>
 <li>double set of Pi headers (for inside and outside mount)</li>
+<li>can be used as SHIM (no headers) or HAT (with headers)</li>
+</ul>
+Raspberry Pi zero 40-pin <b>DOT-zero-SHIM</b> mini-HAT.
+Features:
+<ul>
+<li>locked Pi headers</li>
+<li>2.54mm raster holes</li>
+<li>clear pin description</li>
+<li>Pi zero board style</li>
 <li>can be used as SHIM (no headers) or HAT (with headers)</li>
 </ul>
