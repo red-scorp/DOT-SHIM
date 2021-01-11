@@ -3817,6 +3817,10 @@ design rules under a new name.</description>
 <mfgpreviewcolor name="coppercolor" color="0xFFFFBF00"/>
 <mfgpreviewcolor name="substratecolor" color="0xFF786E46"/>
 </mfgpreviewcolors>
+<errors>
+<approved hash="23,16,73f0e19f1b1c82fd"/>
+<approved hash="23,16,e8a6c2ccc217e87d"/>
+</errors>
 </board>
 </drawing>
 </eagle>
