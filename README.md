@@ -1,6 +1,6 @@
 # DOT-SHIM project
 
-My DOT-SHIM (mini-HAT) for Raspberry Pi.
+DOT-SHIM (mini-HAT), a DIY 2.54mm raster board for Raspberry Pi.
 
 Some time ago I have tried to attach something self-made schematics to a zero Pi with some limited success.
 Here I've designed a 2.54mm raster board for DIY applications.
