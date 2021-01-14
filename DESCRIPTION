@@ -25,3 +25,11 @@ Features:
 <li>Pi A+/B+ board style</li>
 <li>can be used as SHIM (no headers) or HAT (with headers)</li>
 </ul>
+Raspberry Pi 40-pin <b>DOT-simple-SHIM</b> mini-HAT.<br/>
+Features:
+<ul>
+<li>locked Pi headers</li>
+<li>a row of 2.54mm raster holes</li>
+<li>extended pin description</li>
+<li>can be used as SHIM (no headers) or HAT (with headers)</li>
+</ul>

@@ -70,6 +70,25 @@ Features:
 
 CAM files are available.
 
+## DOT-simple-SHIM
+
+Raspberry Pi 40-pin **DOT-simple-SHIM** mini-HAT.
+
+Preview:
+
+![DOT-simple-SHIM preview](DOT-simple-SHIM.png)
+
+[Schematics in PDF format](DOT-simple-SHIM.pdf)
+
+Features:
+
+- locked Pi headers
+- a row of 2.54mm raster holes
+- extended pin description
+- can be used as SHIM (no headers) or HAT (with headers)
+
+CAM files are available.
+
 ## How to help
 
 Your contributions as code, resources or finances are welcome!
