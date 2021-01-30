@@ -202,7 +202,7 @@
 <wire x1="0" y1="49.53" x2="1.27" y2="50.8" width="0" layer="20" curve="-90"/>
 <wire x1="19.05" y1="50.8" x2="20.32" y2="49.53" width="0" layer="20" curve="-90"/>
 <wire x1="20.32" y1="1.27" x2="19.05" y2="0" width="0" layer="20" curve="-90"/>
-<text x="18.542" y="45.339" size="1.27" layer="22" font="vector" ratio="24" rot="MR270">DOT-simple-SHIM v1.0</text>
+<text x="18.542" y="45.339" size="1.27" layer="16" font="vector" ratio="24" rot="MR270">DOT-simple-SHIM v1.0</text>
 <rectangle x1="7.62" y1="48.26" x2="10.16" y2="50.8" layer="21"/>
 <text x="12.065" y="48.006" size="0.6096" layer="21" font="vector" ratio="12">2</text>
 <text x="9.525" y="45.466" size="0.6096" layer="21" font="vector" ratio="12">3</text>
@@ -241,8 +241,124 @@
 <text x="11.684" y="4.826" size="0.6096" layer="21" font="vector" ratio="12">36</text>
 <text x="9.144" y="2.286" size="0.6096" layer="21" font="vector" ratio="12">37</text>
 <text x="11.684" y="2.286" size="0.6096" layer="21" font="vector" ratio="12">38</text>
-<text x="4.445" y="48.133" size="1.016" layer="22" font="vector" ratio="12" rot="MR270">(c) Andriy Golovnya
+<text x="4.445" y="48.133" size="1.27" layer="16" font="vector" ratio="12" rot="MR270">(c) Andriy Golovnya
 http://redscorp.net</text>
+<text x="5.08" y="1.27" size="1.016" layer="1" font="vector" ratio="12" rot="R180" align="center-left">GND</text>
+<text x="5.08" y="4.318" size="0.8128" layer="1" font="vector" ratio="12" rot="R180" align="center-left">GPIO26</text>
+<text x="5.08" y="7.239" size="0.8128" layer="1" font="vector" ratio="12" rot="R180" align="center-left">GPIO19</text>
+<text x="5.08" y="9.398" size="0.8128" layer="1" font="vector" ratio="12" rot="R180" align="center-left">GPIO13</text>
+<text x="5.08" y="11.938" size="0.8128" layer="1" font="vector" ratio="12" rot="R180" align="center-left">GPIO6</text>
+<text x="5.08" y="14.478" size="0.8128" layer="1" font="vector" ratio="12" rot="R180" align="center-left">GPIO5</text>
+<text x="5.08" y="17.018" size="0.8128" layer="1" font="vector" ratio="12" rot="R180" align="center-left">GPIO0</text>
+<text x="5.08" y="19.05" size="1.016" layer="1" font="vector" ratio="12" rot="R180" align="center-left">GND</text>
+<text x="5.08" y="22.098" size="0.8128" layer="1" font="vector" ratio="12" rot="R180" align="center-left">GPIO11</text>
+<text x="5.08" y="24.638" size="0.8128" layer="1" font="vector" ratio="12" rot="R180" align="center-left">GPIO9</text>
+<text x="5.08" y="27.178" size="0.8128" layer="1" font="vector" ratio="12" rot="R180" align="center-left">GPIO10</text>
+<text x="5.08" y="29.21" size="1.016" layer="1" font="vector" ratio="12" rot="R180" align="center-left">3.3V</text>
+<text x="5.08" y="32.258" size="0.8128" layer="1" font="vector" ratio="12" rot="R180" align="center-left">GPIO22</text>
+<text x="5.08" y="34.798" size="0.8128" layer="1" font="vector" ratio="12" rot="R180" align="center-left">GPIO27</text>
+<text x="5.08" y="37.338" size="0.8128" layer="1" font="vector" ratio="12" rot="R180" align="center-left">GPIO17</text>
+<text x="5.08" y="39.37" size="1.016" layer="1" font="vector" ratio="12" rot="R180" align="center-left">GND</text>
+<text x="5.08" y="42.418" size="0.8128" layer="1" font="vector" ratio="12" rot="R180" align="center-left">GPIO4</text>
+<text x="5.08" y="44.958" size="0.8128" layer="1" font="vector" ratio="12" rot="R180" align="center-left">GPIO3</text>
+<text x="5.08" y="47.498" size="0.8128" layer="1" font="vector" ratio="12" rot="R180" align="center-left">GPIO2</text>
+<text x="5.08" y="49.53" size="1.016" layer="1" font="vector" ratio="12" rot="R180" align="center-left">3.3V</text>
+<text x="15.24" y="49.53" size="1.016" layer="1" font="vector" ratio="12" align="center-left">5V</text>
+<text x="15.24" y="46.99" size="1.016" layer="1" font="vector" ratio="12" align="center-left">5V</text>
+<text x="15.24" y="44.45" size="1.016" layer="1" font="vector" ratio="12" align="center-left">GND</text>
+<text x="15.24" y="42.418" size="0.8128" layer="1" font="vector" ratio="12" align="center-left">GPIO14</text>
+<text x="15.24" y="39.878" size="0.8128" layer="1" font="vector" ratio="12" align="center-left">GPIO15</text>
+<text x="15.24" y="37.719" size="0.8128" layer="1" font="vector" ratio="12" align="center-left">GPIO18</text>
+<text x="15.24" y="34.29" size="1.016" layer="1" font="vector" ratio="12" align="center-left">GND</text>
+<text x="15.24" y="32.258" size="0.8128" layer="1" font="vector" ratio="12" align="center-left">GPIO23</text>
+<text x="15.24" y="29.718" size="0.8128" layer="1" font="vector" ratio="12" align="center-left">GPIO24</text>
+<text x="15.24" y="26.67" size="1.016" layer="1" font="vector" ratio="12" align="center-left">GND</text>
+<text x="15.24" y="24.638" size="0.8128" layer="1" font="vector" ratio="12" align="center-left">GPIO25</text>
+<text x="15.24" y="22.098" size="0.8128" layer="1" font="vector" ratio="12" align="center-left">GPIO8</text>
+<text x="15.24" y="19.558" size="0.8128" layer="1" font="vector" ratio="12" align="center-left">GPIO7</text>
+<text x="15.24" y="17.018" size="0.8128" layer="1" font="vector" ratio="12" align="center-left">GPIO1</text>
+<text x="15.24" y="13.97" size="1.016" layer="1" font="vector" ratio="12" align="center-left">GND</text>
+<text x="15.24" y="8.89" size="1.016" layer="1" font="vector" ratio="12" align="center-left">GND</text>
+<text x="15.24" y="11.938" size="0.8128" layer="1" font="vector" ratio="12" align="center-left">GPIO12</text>
+<text x="15.24" y="6.858" size="0.8128" layer="1" font="vector" ratio="12" align="center-left">GPIO16</text>
+<text x="15.24" y="4.699" size="0.8128" layer="1" font="vector" ratio="12" align="center-left">GPIO20</text>
+<text x="15.24" y="2.159" size="0.8128" layer="1" font="vector" ratio="12" align="center-left">GPIO21</text>
+<text x="5.08" y="46.482" size="0.6096" layer="1" font="vector" ratio="12" rot="R180" align="center-left">I2C1 SDA</text>
+<text x="5.08" y="43.942" size="0.6096" layer="1" font="vector" ratio="12" rot="R180" align="center-left">I2C1 SCL</text>
+<text x="5.08" y="41.402" size="0.6096" layer="1" font="vector" ratio="12" rot="R180" align="center-left">GPCLK0</text>
+<text x="5.08" y="36.322" size="0.6096" layer="1" font="vector" ratio="12" rot="R180" align="center-left">SPI1 CE1</text>
+<text x="5.08" y="33.782" size="0.6096" layer="1" font="vector" ratio="12" rot="R180" align="center-left">SD0 DAT3</text>
+<text x="5.08" y="31.242" size="0.6096" layer="1" font="vector" ratio="12" rot="R180" align="center-left">SD0 CLK</text>
+<text x="5.08" y="26.162" size="0.6096" layer="1" font="vector" ratio="12" rot="R180" align="center-left">SPI0 MOSI</text>
+<text x="5.08" y="23.622" size="0.6096" layer="1" font="vector" ratio="12" rot="R180" align="center-left">SPI0 MISO</text>
+<text x="5.08" y="21.082" size="0.6096" layer="1" font="vector" ratio="12" rot="R180" align="center-left">SPI0 SCLK</text>
+<text x="5.08" y="16.002" size="0.6096" layer="1" font="vector" ratio="12" rot="R180" align="center-left">I2C0 SDA</text>
+<text x="5.08" y="13.462" size="0.6096" layer="1" font="vector" ratio="12" rot="R180" align="center-left">GPCLK1</text>
+<text x="5.08" y="10.922" size="0.6096" layer="1" font="vector" ratio="12" rot="R180" align="center-left">GPCLK2</text>
+<text x="5.08" y="8.382" size="0.6096" layer="1" font="vector" ratio="12" rot="R180" align="center-left">PWM1</text>
+<text x="5.08" y="6.35" size="0.6096" layer="1" font="vector" ratio="12" rot="R180" align="center-left">PCM FS</text>
+<text x="5.08" y="5.588" size="0.6096" layer="1" font="vector" ratio="12" rot="R180" align="center-left">SPI1 MISO</text>
+<text x="5.08" y="3.302" size="0.6096" layer="1" font="vector" ratio="12" rot="R180" align="center-left">SD0 DAT2</text>
+<text x="15.24" y="41.402" size="0.6096" layer="1" font="vector" ratio="12" align="center-left">UART TX</text>
+<text x="15.24" y="38.862" size="0.6096" layer="1" font="vector" ratio="12" align="center-left">UART RX</text>
+<text x="15.24" y="36.83" size="0.6096" layer="1" font="vector" ratio="12" align="center-left">PCM CLK</text>
+<text x="15.24" y="36.068" size="0.6096" layer="1" font="vector" ratio="12" align="center-left">SPI1 CE0</text>
+<text x="15.24" y="31.242" size="0.6096" layer="1" font="vector" ratio="12" align="center-left">SD0 CMD</text>
+<text x="15.24" y="28.702" size="0.6096" layer="1" font="vector" ratio="12" align="center-left">SD0 DAT0</text>
+<text x="15.24" y="23.622" size="0.6096" layer="1" font="vector" ratio="12" align="center-left">SD0 DAT1</text>
+<text x="15.24" y="21.082" size="0.6096" layer="1" font="vector" ratio="12" align="center-left">SPI0 CE0</text>
+<text x="15.24" y="18.542" size="0.6096" layer="1" font="vector" ratio="12" align="center-left">SPI0 CE1</text>
+<text x="15.24" y="16.002" size="0.6096" layer="1" font="vector" ratio="12" align="center-left">I2C0 SCL</text>
+<text x="15.24" y="10.922" size="0.6096" layer="1" font="vector" ratio="12" align="center-left">PWM0</text>
+<text x="15.24" y="5.842" size="0.6096" layer="1" font="vector" ratio="12" align="center-left">SPI1 CE2</text>
+<text x="15.24" y="3.81" size="0.6096" layer="1" font="vector" ratio="12" align="center-left">PCM DIN</text>
+<text x="15.24" y="3.048" size="0.6096" layer="1" font="vector" ratio="12" align="center-left">SPI1 MOSI</text>
+<text x="15.24" y="1.27" size="0.6096" layer="1" font="vector" ratio="12" align="center-left">PCM DOUT</text>
+<text x="15.24" y="0.508" size="0.6096" layer="1" font="vector" ratio="12" align="center-left">SPI1 SCLK</text>
+<hole x="17.78" y="48.26" drill="3.048"/>
+<wire x1="6.35" y1="49.53" x2="9.017" y2="49.53" width="0.3048" layer="21"/>
+<wire x1="6.35" y1="46.99" x2="8.763" y2="46.99" width="0.3048" layer="21"/>
+<wire x1="6.35" y1="44.45" x2="9.017" y2="44.45" width="0.3048" layer="21"/>
+<wire x1="6.35" y1="41.91" x2="8.763" y2="41.91" width="0.3048" layer="21"/>
+<wire x1="6.35" y1="39.37" x2="9.017" y2="39.37" width="0.3048" layer="21"/>
+<wire x1="6.35" y1="36.83" x2="8.763" y2="36.83" width="0.3048" layer="21"/>
+<wire x1="6.35" y1="34.29" x2="9.017" y2="34.29" width="0.3048" layer="21"/>
+<wire x1="6.35" y1="31.75" x2="8.763" y2="31.75" width="0.3048" layer="21"/>
+<wire x1="6.35" y1="29.21" x2="9.017" y2="29.21" width="0.3048" layer="21"/>
+<wire x1="6.35" y1="26.67" x2="8.636" y2="26.67" width="0.3048" layer="21"/>
+<wire x1="6.35" y1="24.13" x2="9.017" y2="24.13" width="0.3048" layer="21"/>
+<wire x1="6.35" y1="21.59" x2="8.763" y2="21.59" width="0.3048" layer="21"/>
+<wire x1="6.35" y1="19.05" x2="9.017" y2="19.05" width="0.3048" layer="21"/>
+<wire x1="6.35" y1="16.51" x2="8.636" y2="16.51" width="0.3048" layer="21"/>
+<wire x1="6.35" y1="13.97" x2="9.017" y2="13.97" width="0.3048" layer="21"/>
+<wire x1="6.35" y1="11.43" x2="8.763" y2="11.43" width="0.3048" layer="21"/>
+<wire x1="6.35" y1="8.89" x2="9.017" y2="8.89" width="0.3048" layer="21"/>
+<wire x1="6.35" y1="6.35" x2="8.763" y2="6.35" width="0.3048" layer="21"/>
+<wire x1="6.35" y1="3.81" x2="9.017" y2="3.81" width="0.3048" layer="21"/>
+<wire x1="6.35" y1="1.27" x2="8.763" y2="1.27" width="0.3048" layer="21"/>
+<wire x1="11.557" y1="49.53" x2="13.97" y2="49.53" width="0.3048" layer="21"/>
+<wire x1="13.97" y1="46.99" x2="11.303" y2="46.99" width="0.3048" layer="21"/>
+<wire x1="11.557" y1="44.45" x2="13.97" y2="44.45" width="0.3048" layer="21"/>
+<wire x1="13.97" y1="41.91" x2="11.303" y2="41.91" width="0.3048" layer="21"/>
+<wire x1="11.557" y1="39.37" x2="13.97" y2="39.37" width="0.3048" layer="21"/>
+<wire x1="13.97" y1="36.83" x2="11.303" y2="36.83" width="0.3048" layer="21"/>
+<wire x1="13.97" y1="34.29" x2="11.684" y2="34.29" width="0.3048" layer="21"/>
+<wire x1="13.97" y1="31.75" x2="11.303" y2="31.75" width="0.3048" layer="21"/>
+<wire x1="13.97" y1="29.21" x2="11.557" y2="29.21" width="0.3048" layer="21"/>
+<wire x1="13.97" y1="26.67" x2="11.303" y2="26.67" width="0.3048" layer="21"/>
+<wire x1="13.97" y1="24.13" x2="11.557" y2="24.13" width="0.3048" layer="21"/>
+<wire x1="13.97" y1="21.59" x2="11.303" y2="21.59" width="0.3048" layer="21"/>
+<wire x1="13.97" y1="19.05" x2="11.557" y2="19.05" width="0.3048" layer="21"/>
+<wire x1="13.97" y1="16.51" x2="11.303" y2="16.51" width="0.3048" layer="21"/>
+<wire x1="13.97" y1="13.97" x2="11.557" y2="13.97" width="0.3048" layer="21"/>
+<wire x1="13.97" y1="11.43" x2="11.303" y2="11.43" width="0.3048" layer="21"/>
+<wire x1="13.97" y1="8.89" x2="11.557" y2="8.89" width="0.3048" layer="21"/>
+<wire x1="13.97" y1="6.35" x2="11.176" y2="6.35" width="0.3048" layer="21"/>
+<wire x1="13.97" y1="3.81" x2="11.557" y2="3.81" width="0.3048" layer="21"/>
+<wire x1="13.97" y1="1.27" x2="11.303" y2="1.27" width="0.3048" layer="21"/>
+<text x="4.445" y="48.133" size="1.27" layer="22" font="vector" ratio="12" rot="MR270">(c) Andriy Golovnya
+http://redscorp.net</text>
+<text x="18.542" y="45.339" size="1.27" layer="22" font="vector" ratio="24" rot="MR270">DOT-simple-SHIM v1.0</text>
 <text x="5.08" y="1.27" size="1.016" layer="21" font="vector" ratio="12" rot="R180" align="center-left">GND</text>
 <text x="5.08" y="4.318" size="0.8128" layer="21" font="vector" ratio="12" rot="R180" align="center-left">GPIO26</text>
 <text x="5.08" y="7.239" size="0.8128" layer="21" font="vector" ratio="12" rot="R180" align="center-left">GPIO19</text>
@@ -315,47 +431,6 @@ http://redscorp.net</text>
 <text x="15.24" y="3.048" size="0.6096" layer="21" font="vector" ratio="12" align="center-left">SPI1 MOSI</text>
 <text x="15.24" y="1.27" size="0.6096" layer="21" font="vector" ratio="12" align="center-left">PCM DOUT</text>
 <text x="15.24" y="0.508" size="0.6096" layer="21" font="vector" ratio="12" align="center-left">SPI1 SCLK</text>
-<hole x="17.78" y="48.26" drill="3.048"/>
-<wire x1="6.35" y1="49.53" x2="9.017" y2="49.53" width="0.3048" layer="21"/>
-<wire x1="6.35" y1="46.99" x2="8.763" y2="46.99" width="0.3048" layer="21"/>
-<wire x1="6.35" y1="44.45" x2="9.017" y2="44.45" width="0.3048" layer="21"/>
-<wire x1="6.35" y1="41.91" x2="8.763" y2="41.91" width="0.3048" layer="21"/>
-<wire x1="6.35" y1="39.37" x2="9.017" y2="39.37" width="0.3048" layer="21"/>
-<wire x1="6.35" y1="36.83" x2="8.763" y2="36.83" width="0.3048" layer="21"/>
-<wire x1="6.35" y1="34.29" x2="9.017" y2="34.29" width="0.3048" layer="21"/>
-<wire x1="6.35" y1="31.75" x2="8.763" y2="31.75" width="0.3048" layer="21"/>
-<wire x1="6.35" y1="29.21" x2="9.017" y2="29.21" width="0.3048" layer="21"/>
-<wire x1="6.35" y1="26.67" x2="8.636" y2="26.67" width="0.3048" layer="21"/>
-<wire x1="6.35" y1="24.13" x2="9.017" y2="24.13" width="0.3048" layer="21"/>
-<wire x1="6.35" y1="21.59" x2="8.763" y2="21.59" width="0.3048" layer="21"/>
-<wire x1="6.35" y1="19.05" x2="9.017" y2="19.05" width="0.3048" layer="21"/>
-<wire x1="6.35" y1="16.51" x2="8.636" y2="16.51" width="0.3048" layer="21"/>
-<wire x1="6.35" y1="13.97" x2="9.017" y2="13.97" width="0.3048" layer="21"/>
-<wire x1="6.35" y1="11.43" x2="8.763" y2="11.43" width="0.3048" layer="21"/>
-<wire x1="6.35" y1="8.89" x2="9.017" y2="8.89" width="0.3048" layer="21"/>
-<wire x1="6.35" y1="6.35" x2="8.763" y2="6.35" width="0.3048" layer="21"/>
-<wire x1="6.35" y1="3.81" x2="9.017" y2="3.81" width="0.3048" layer="21"/>
-<wire x1="6.35" y1="1.27" x2="8.763" y2="1.27" width="0.3048" layer="21"/>
-<wire x1="11.557" y1="49.53" x2="13.97" y2="49.53" width="0.3048" layer="21"/>
-<wire x1="13.97" y1="46.99" x2="11.303" y2="46.99" width="0.3048" layer="21"/>
-<wire x1="11.557" y1="44.45" x2="13.97" y2="44.45" width="0.3048" layer="21"/>
-<wire x1="13.97" y1="41.91" x2="11.303" y2="41.91" width="0.3048" layer="21"/>
-<wire x1="11.557" y1="39.37" x2="13.97" y2="39.37" width="0.3048" layer="21"/>
-<wire x1="13.97" y1="36.83" x2="11.303" y2="36.83" width="0.3048" layer="21"/>
-<wire x1="13.97" y1="34.29" x2="11.684" y2="34.29" width="0.3048" layer="21"/>
-<wire x1="13.97" y1="31.75" x2="11.303" y2="31.75" width="0.3048" layer="21"/>
-<wire x1="13.97" y1="29.21" x2="11.557" y2="29.21" width="0.3048" layer="21"/>
-<wire x1="13.97" y1="26.67" x2="11.303" y2="26.67" width="0.3048" layer="21"/>
-<wire x1="13.97" y1="24.13" x2="11.557" y2="24.13" width="0.3048" layer="21"/>
-<wire x1="13.97" y1="21.59" x2="11.303" y2="21.59" width="0.3048" layer="21"/>
-<wire x1="13.97" y1="19.05" x2="11.557" y2="19.05" width="0.3048" layer="21"/>
-<wire x1="13.97" y1="16.51" x2="11.303" y2="16.51" width="0.3048" layer="21"/>
-<wire x1="13.97" y1="13.97" x2="11.557" y2="13.97" width="0.3048" layer="21"/>
-<wire x1="13.97" y1="11.43" x2="11.303" y2="11.43" width="0.3048" layer="21"/>
-<wire x1="13.97" y1="8.89" x2="11.557" y2="8.89" width="0.3048" layer="21"/>
-<wire x1="13.97" y1="6.35" x2="11.176" y2="6.35" width="0.3048" layer="21"/>
-<wire x1="13.97" y1="3.81" x2="11.557" y2="3.81" width="0.3048" layer="21"/>
-<wire x1="13.97" y1="1.27" x2="11.303" y2="1.27" width="0.3048" layer="21"/>
 </plain>
 <libraries>
 <library name="_my_logos">
