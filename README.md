@@ -23,7 +23,7 @@ Preview:
 Features:
 
 - locked Pi headers
-- 2.54mm raster holes
+- 2.54mm (0.1") raster holes
 - clear pin description
 - double set of Pi headers (for inside and outside mount)
 - can be used as SHIM (no headers) or HAT (with headers) 
@@ -43,7 +43,7 @@ Preview:
 Features:
 
 - locked Pi headers
-- 2.54mm raster holes
+- 2.54mm (0.1") raster holes
 - clear pin description
 - Pi zero board style
 - can be used as SHIM (no headers) or HAT (with headers)
@@ -63,7 +63,7 @@ Preview:
 Features:
 
 - locked Pi headers
-- 2.54mm raster holes
+- 2.54mm (0.1") raster holes
 - clear pin description
 - Pi A+/B+ board style
 - can be used as SHIM (no headers) or HAT (with headers)
@@ -83,7 +83,7 @@ Preview:
 Features:
 
 - locked Pi headers
-- a row of 2.54mm raster holes
+- a row of 2.54mm (0.1") raster holes
 - extended pin description
 - can be used as SHIM (no headers) or HAT (with headers)
 
