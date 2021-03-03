@@ -2,7 +2,7 @@ Raspberry Pi 40-pin <b>DOT-SHIM</b> mini-HAT.<br/>
 Features:
 <ul>
 <li>locked Pi headers</li>
-<li>2.54mm raster holes</li>
+<li>2.54mm (0.1") raster holes</li>
 <li>clear pin description</li>
 <li>double set of Pi headers (for inside and outside mount)</li>
 <li>can be used as SHIM (no headers) or HAT (with headers)</li>
@@ -11,7 +11,7 @@ Raspberry Pi zero 40-pin <b>DOT-zero-SHIM</b> mini-HAT.
 Features:
 <ul>
 <li>locked Pi headers</li>
-<li>2.54mm raster holes</li>
+<li>2.54mm (0.1") raster holes</li>
 <li>clear pin description</li>
 <li>Pi zero board style</li>
 <li>can be used as SHIM (no headers) or HAT (with headers)</li>
@@ -20,7 +20,7 @@ Raspberry Pi A+/B+ 40-pin <b>DOT-plus-SHIM</b> mini-HAT.
 Features:
 <ul>
 <li>locked Pi headers</li>
-<li>2.54mm raster holes</li>
+<li>2.54mm (0.1") raster holes</li>
 <li>clear pin description</li>
 <li>Pi A+/B+ board style</li>
 <li>can be used as SHIM (no headers) or HAT (with headers)</li>
@@ -29,7 +29,7 @@ Raspberry Pi 40-pin <b>DOT-simple-SHIM</b> mini-HAT.<br/>
 Features:
 <ul>
 <li>locked Pi headers</li>
-<li>a row of 2.54mm raster holes</li>
+<li>a row of 2.54mm (0.1") raster holes</li>
 <li>extended pin description</li>
 <li>can be used as SHIM (no headers) or HAT (with headers)</li>
 </ul>
