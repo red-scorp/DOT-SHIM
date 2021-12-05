@@ -16,9 +16,9 @@ Raspberry Pi 40-pin **DOT-SHIM** mini-HAT.
 
 Preview:
 
-![DOT-SHIM preview](DOT-SHIM.png)
+![DOT-SHIM preview](img/DOT-SHIM.png)
 
-[Schematics in PDF format](DOT-SHIM.pdf)
+[Schematics in PDF format](doc/DOT-SHIM.pdf)
 
 Features:
 
@@ -36,9 +36,9 @@ Raspberry Pi zero 40-pin **DOT-zero-SHIM** mini-HAT.
 
 Preview:
 
-![DOT-zero-SHIM preview](DOT-zero-SHIM.png)
+![DOT-zero-SHIM preview](img/DOT-zero-SHIM.png)
 
-[Schematics in PDF format](DOT-zero-SHIM.pdf)
+[Schematics in PDF format](doc/DOT-zero-SHIM.pdf)
 
 Features:
 
@@ -56,9 +56,9 @@ Raspberry Pi A+/B+ 40-pin **DOT-plus-SHIM** mini-HAT.
 
 Preview:
 
-![DOT-plus-SHIM preview](DOT-plus-SHIM.png)
+![DOT-plus-SHIM preview](img/DOT-plus-SHIM.png)
 
-[Schematics in PDF format](DOT-plus-SHIM.pdf)
+[Schematics in PDF format](doc/DOT-plus-SHIM.pdf)
 
 Features:
 
@@ -76,9 +76,9 @@ Raspberry Pi 40-pin **DOT-simple-SHIM** mini-HAT.
 
 Preview:
 
-![DOT-simple-SHIM preview](DOT-simple-SHIM.png)
+![DOT-simple-SHIM preview](img/DOT-simple-SHIM.png)
 
-[Schematics in PDF format](DOT-simple-SHIM.pdf)
+[Schematics in PDF format](doc/DOT-simple-SHIM.pdf)
 
 Features:
 
