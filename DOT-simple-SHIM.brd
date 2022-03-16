@@ -2491,6 +2491,68 @@ design rules under a new name.</description>
 <mfgpreviewcolor name="coppercolor" color="0xFFFFBF00"/>
 <mfgpreviewcolor name="substratecolor" color="0xFF786E46"/>
 </mfgpreviewcolors>
+<errors>
+<approved hash="3,1,fe72c1d09dc2a260"/>
+<approved hash="3,1,41e11be947f71dff"/>
+<approved hash="3,1,f9549374cf6aa54a"/>
+<approved hash="3,1,f4bdac9df083a8a3"/>
+<approved hash="3,1,e01ab826e438bc04"/>
+<approved hash="3,1,f2cbdd79816baed9"/>
+<approved hash="3,1,c724ee82b2909b36"/>
+<approved hash="3,1,d9e613c64fd185f1"/>
+<approved hash="3,1,ad41076d5b7af156"/>
+<approved hash="3,1,66f7baf866efbae0"/>
+<approved hash="3,1,881a60223c35d40d"/>
+<approved hash="3,1,9fe555c909dec3f2"/>
+<approved hash="3,1,3f22552e8930e33c"/>
+<approved hash="3,1,66d7bd17e1003ac0"/>
+<approved hash="3,1,8f24aebef2acd336"/>
+<approved hash="3,1,bb83a225fe37e791"/>
+<approved hash="3,1,a87a97cccbdef468"/>
+<approved hash="3,1,24d2ff1aa30d78c5"/>
+<approved hash="3,1,0c04e428b83f5013"/>
+<approved hash="3,1,c18a1bb3c7a41d9d"/>
+<approved hash="3,1,d5150f5ad34d0902"/>
+<approved hash="3,1,2bde5333152f6dc2"/>
+<approved hash="3,1,04b360da26c542ac"/>
+<approved hash="3,1,68b7209b7c8534a9"/>
+<approved hash="3,1,f19874453255b788"/>
+<approved hash="3,1,aa531a685c77ec4c"/>
+<approved hash="3,1,5efc16c150dc18e1"/>
+<approved hash="3,1,49c7212667380fd9"/>
+<approved hash="3,1,7f83c8148e0e3999"/>
+<approved hash="3,1,ab3dc3928588ed27"/>
+<approved hash="3,1,d674d73d9127906e"/>
+<approved hash="3,1,9e32f84fbe53d82e"/>
+<approved hash="3,1,790d8df6cbe63f1d"/>
+<approved hash="3,1,0af48191c7814ce4"/>
+<approved hash="3,1,11863c3c602e4d94"/>
+<approved hash="3,1,99239538d32ddf36"/>
+<approved hash="3,1,1325af2ce93f5536"/>
+<approved hash="3,1,432c2b656d7f0536"/>
+<approved hash="3,1,eb08b9b5ffa8ad15"/>
+<approved hash="3,1,f34020bd66afb552"/>
+<approved hash="3,1,1dff2cc46ad15bea"/>
+<approved hash="3,1,52b35ae81cfa14a1"/>
+<approved hash="3,1,7c8bdea098b53a9e"/>
+<approved hash="3,1,4940771131040f55"/>
+<approved hash="3,1,b89762b824affe80"/>
+<approved hash="3,1,661f484514573a0d"/>
+<approved hash="3,1,41e19a6adc7d07f6"/>
+<approved hash="3,1,355c85f5c3e07349"/>
+<approved hash="3,1,0927b11cf7094f32"/>
+<approved hash="3,1,5e8ebca7fab2189b"/>
+<approved hash="3,1,d83ed46992769e21"/>
+<approved hash="3,1,4b22f31bb50e0d37"/>
+<approved hash="3,1,ad4af92fbf3deb58"/>
+<approved hash="3,1,b9727de73bf1ff64"/>
+<approved hash="3,1,65afe4b6a2a123b8"/>
+<approved hash="3,1,77b3690e2f1831a5"/>
+<approved hash="3,1,7a7845ee19fc266a"/>
+<approved hash="3,1,36b062983e866aae"/>
+<approved hash="3,1,57837e2122330b91"/>
+<approved hash="3,1,d1868a4ad6548d98"/>
+</errors>
 </board>
 </drawing>
 <compatibility>
